@@ -1,4 +1,4 @@
-# 
+# vip Polymarket Addon | trailing-stops + prediction-market-scanning offers the most advanced Polymarket addon, with trailing-stops and prediction-market-scanning. Ideal for
 
 
 
